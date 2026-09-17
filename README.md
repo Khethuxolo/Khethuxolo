@@ -8,7 +8,8 @@ I build the layer between a production warehouse and the people who have to make
 
 --------------------------------------------------------------------------
 
-Working with:
+### Working with:
+
 Data & query — Advanced T-SQL, SQL Server, query optimisation, config-driven dynamic SQL, data modelling, 40M+ row tables
 BI & reporting — Power BI (DAX, Power Query M, semantic models), KPI frameworks, executive reporting
 Python & R — pandas, scikit-learn, statsmodels, ETL pipelines, automation
@@ -17,11 +18,12 @@ Cloud — Azure Synapse, Data Lake, Azure OpenAI
 
 --------------------------------------------------------------------------
 
-Selected work:
+### Selected work:
 
+**[agent-orchestration](https://github.com/Khethuxolo/agent-orchestration)** — A governance system for running a team of AI coding agents. Independent evaluation by agents that never see the builder's reasoning, rubrics written before the build so the bar can't move, a circuit breaker on fix loops, and per-cycle outcomes measured rather than asserted. Extracted from a commercial build.
 --------------------------------------------------------------------------
 
-Background:
+### Background:
 
 Information Analyst · Royal College of Nursing, UK · 2021–2026 Production membership forecasting, engagement scoring, KPI reporting and maintenance and BI for a 580,000+ member organisation.
 
@@ -33,7 +35,7 @@ Senior Data Analyst · Clinton Health Access Initiative, Eswatini · 2014–2018
 
 --------------------------------------------------------------------------
 
-How I work:
+### How I work:
 
 Validation before sophistication - walk-forward and out-of-time validation wherever data has a time dimension, leakage designed against rather than discovered late, and rejected approaches documented rather than quietly deleted. The interesting question is usually whether a metric measures what people think it measures. I strongly believe and advocate for initial and continuous stakeholder engagement to ensure accuracy and alignment of project requirements. Asking a lot of questions isn't a weakness.
 
