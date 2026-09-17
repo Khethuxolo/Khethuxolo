@@ -1,4 +1,4 @@
-Khethuxolo Mngomezulu
+### Khethuxolo Mngomezulu
 
 Data and analytics contractor — ten years across health, public sector and large membership organisations.
 
